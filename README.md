@@ -39,11 +39,22 @@ Flask · REST APIs · SQLite · JSON
 ### PHANTOMS AI — Engineering
 Backend architecture · REST APIs · SQLite · testing · data pipelines
 
+[Week 2 — Backend Foundations](https://github.com/inspire2029-sudo/phantoms-ai-week2)
+
 ### PHANTOMS AI — Machine Learning
 Data cleaning · feature engineering · encoding · model building
 
+[Week 3 — Machine Learning Foundations](https://github.com/inspire2029-sudo/phantoms-ai-week3)
+
 ### PHANTOMS AI — Neural Networks
 PyTorch · MNIST · tensors · DataLoader · fully connected neural network
+
+[Week 5 — Neural Network with PyTorch](https://github.com/inspire2029-sudo/phantoms-ai-week5)
+
+### PHANTOMS AI — Python Foundations
+Functions · DRY · exception handling · input validation
+
+[Week 1 — Python Foundations](https://github.com/inspire2029-sudo/phantoms-ai-week1)
 
 ---
 
