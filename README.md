@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/profile-header.svg" alt="Aya — IT, Cybersecurity, AI Security, LLM Red Teaming">
+
+</div>
+
 # AYA
 
 ### IT • CYBERSECURITY • AI SECURITY
