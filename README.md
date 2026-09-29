@@ -74,6 +74,14 @@ Functions · DRY · exception handling · input validation
 
 ---
 
+## ENGINEERING PRACTICE
+
+I aim to keep projects reproducible, documented, testable, and security-conscious — not just functional.
+
+**Practice:** Python · Git · Linux · APIs · databases · testing · machine learning
+
+---
+
 ## BUILD PHILOSOPHY
 
 > Build it. Break it. Understand it. Document it.
